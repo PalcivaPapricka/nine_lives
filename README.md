@@ -41,7 +41,6 @@ V hre je smrť neoddeliteľnou súčasťou postupu. Každý hrob, ktorý zostane
 - **Main**: trieda, v ktorej sa bude nachádza hlavný gameloop.
 - **Player**: trieda reprezentujúca hráča, ovládanie hráča, vykreslenie postavy a kolízie.
 - **World**: trieda levelu, vykreslenie spritov a layoutu levelu.
-- **Menu**: trieda UI, zobrazenie main menu a menu po ukončení hry.
 ---
 ## **3. Grafika**
 Všetky assety použité v hre som vytvoril sám pomocou pixel-art programu Aseprite. Pri tvorbe som sa zameral na jednoduchý, ale výrazný vizuálny štýl, ktorý podporuje atmosféru hry. Každý objekt, animácia a prostredie boli kreslené manuálne.
